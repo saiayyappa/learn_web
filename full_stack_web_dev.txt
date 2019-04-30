@@ -2,7 +2,7 @@ https://jsfiddle.net/
 https://codepen.io/
 ====
 ====
-*https://developer.mozilla.org/en-US/docs/Learn || https://developer.mozilla.org/en-US/
+*https://developer.mozilla.org/en-US/docs/Learn OR https://developer.mozilla.org/en-US/
 http://freecodecamp.org/
 -https://www.theodinproject.com/
 ====
@@ -10,7 +10,7 @@ http://freecodecamp.org/
 *https://internetingishard.com/ ==> advanced HTML and CSS concepts
 https://css-tricks.com/
 *https://docs.spring.io/spring/docs/current/spring-framework-reference/ ==> focus on spring core, Web MVC // Middleware
-https://angular.io/docs
+https://angular.io/docs ==> about angular docs
 https://reactjs.org/docs/getting-started.html
 https://nodejs.org/en/docs/
 ====
