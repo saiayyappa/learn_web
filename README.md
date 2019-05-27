@@ -26,4 +26,4 @@ https://blogs.msdn.microsoft.com/phkelley/2014/01/20/adding-a-corporate-or-self-
 https://opensource.com/business/14/7/docker-security-selinux?extIdCarryOver=true&sc_cid=701f2000001OH7TAAW
 Gimi_ashi
 https://www.martinfowler.com/articles/injection.html
-
+https://wordpress.org/plugins/front-end-only-users/ -- Front End
