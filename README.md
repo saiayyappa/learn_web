@@ -27,3 +27,4 @@ https://opensource.com/business/14/7/docker-security-selinux?extIdCarryOver=true
 Gimi_ashi
 https://www.martinfowler.com/articles/injection.html
 https://wordpress.org/plugins/front-end-only-users/ -- Front End
+https://www.designyourway.net/blog/web-and-mobile-design/yes-you-can-actually-make-these-text-effects-in-css/
