@@ -5,17 +5,10 @@ http://beej.us/guide/
 - https://pratik-chakravorty.github.io
 - https://www.amazon.com/Fundamentals-Communications-Networking-Michael-Solomon/dp/1449649173
 - https://www.lantronix.com/resources/networking-tutorials/
-- https://www.computernetworkingnotes.com/networking-tutorials/
-data camp website
+- https://www.computernetworkingnotes.com/networking-tutorials/data camp website
 - https://www.infragistics.com/products/indigo-design/help/codegen/vscode-plugin.html
 - https://www.uvm.edu/~bnelson/computer/css/css.html
 - https://www.youtube.com/watch?v=BgUURpODaMc&pbjreload=10
-
-Dear Saiayyappa O R
-If you are passionate about sharing your knowledge or teaching, this is the opportunity to nominate yourself. Consider sharing this information with your colleagues if applicable.
-We are seeking mentor and trainer nominations from Subject Matter Experts to support Cognizant Academy for the FSE(Full Stack Engineer) program to help Create Another YOU !
-If you have any questions about this survey, you may contact Srividya Mridul ( 299500).
-
 - https://www.meteoblue.com/en/weather/archive/export/india_el-salvador_3585481
 - https://data.gov.in/catalogs/ministry_department/ministry-earth-sciences
 - https://ludus.one
@@ -33,7 +26,6 @@ Gimi_ashi
 ## Web Apps Special
 - https://grokonez.com/spring-framework/spring-data/spring-boot-angular-6-example-spring-data-jpa-rest-mysql-crud-example
 - https://start.spring.io/
-- https://www.google.com/search?rlz=1C1GCEU_enIN856IN856&biw=1920&bih=888&tbm=isch&sa=1&ei=MFxRXcTlFYbdvgTBmIbgBQ&q=digital&oq=digital&gs_l=img.3..0i67l7j0l3.245933.246714..247355...0.0..0.277.1279.0j6j1......0....1..gws-wiz-img.-UpWW2TqXPw&ved=0ahUKEwjEvcOnq_3jAhWGro8KHUGMAVwQ4dUDCAY&uact=5#imgdii=TxmYhNI-5qviCM:&imgrc=6hoHzsM_R5RofM:
 - https://dzone.com/articles/introduction-to-jpa-using-spring-boot-data-jpa
 - https://grokonez.com/frontend/angular/angular-4-uploadget-images-tofrom-spring-boot-server
 - https://medium.com/omarelgabrys-blog/microservices-with-spring-boot-authentication-with-jwt-part-3-fafc9d7187e8
@@ -51,7 +43,7 @@ Gimi_ashi
 - https://www.freecodecamp.org/news/crud-operations-in-angular-536e1c03a715/
 - https://www.devglan.com/angular/angular-6-example
 - https://appdividend.com/2018/11/04/angular-7-crud-example-mean-stack-tutorial/
-http://inamidst.com/stuff/notes/csspx
+- http://inamidst.com/stuff/notes/csspx
 - https://medium.com/codingthesmartway-com-blog/angular-chart-js-with-ng2-charts-e21c8262777f
 - https://stackoverflow.com/questions/43557321/angular-4-how-to-include-bootstrap
 - https://labs.iiht.tech/#Workspaces/VMExtension/VirtualMachines
@@ -64,7 +56,6 @@ http://inamidst.com/stuff/notes/csspx
 - https://www.manning.com/books/spring-in-action-fifth-edition?a_aid=hackrio
 - https://www.evoketechnologies.com/blog/integrate-angular-spring-boot-restful-api/
 - https://www.baeldung.com/spring-boot-angular-web
-- https://www.google.com/search?q=integrating+angular+with+spring+boot&rlz=1C1GCEU_enIN856IN856&oq=integrating+angular+with&aqs=chrome.0.0j69i57j0l4.10086j1j7&sourceid=chrome&ie=UTF-8
 - https://codeburst.io/how-node-js-single-thread-mechanism-work-understanding-event-loop-in-nodejs-230f7440b0ea
 - https://www.freecodecamp.org/news/what-exactly-is-node-js-ae36e97449f5/
 - https://medium.com/codebuddies/getting-to-know-asynchronous-javascript-callbacks-promises-and-async-await-17e0673281ee
@@ -76,8 +67,6 @@ http://inamidst.com/stuff/notes/csspx
 - https://egghead.io/lessons/javascript-creating-demo-apis-with-json-server
 - https://malcoded.com/posts/angular-backend-express/
 - https://stackblitz.com/edit/ng2-charts-bar-colors-dynamic
-
-
 - https://labs.iiht.tech/#Workspaces/VMExtension/VirtualMachines
 - https://captivateprime.adobe.com/cognizantiiht
 - https://rclayton.silvrback.com/speaking-intelligently-about-java-vs-node-performance
@@ -88,7 +77,6 @@ http://inamidst.com/stuff/notes/csspx
 - https://www.manning.com/books/spring-in-action-fifth-edition?a_aid=hackrio
 - https://www.evoketechnologies.com/blog/integrate-angular-spring-boot-restful-api/
 - https://www.baeldung.com/spring-boot-angular-web
-- https://www.google.com/search?q=integrating+angular+with+spring+boot&rlz=1C1GCEU_enIN856IN856&oq=integrating+angular+with&aqs=chrome.0.0j69i57j0l4.10086j1j7&sourceid=chrome&ie=UTF-8
 - https://codeburst.io/how-node-js-single-thread-mechanism-work-understanding-event-loop-in-nodejs-230f7440b0ea
 - https://www.freecodecamp.org/news/what-exactly-is-node-js-ae36e97449f5/
 - https://medium.com/codebuddies/getting-to-know-asynchronous-javascript-callbacks-promises-and-async-await-17e0673281ee
@@ -127,15 +115,15 @@ http://inamidst.com/stuff/notes/csspx
 - https://www.forbes.com/sites/quora/2016/09/27/is-the-human-brain-analog-or-digital/#6d58be377106
 - https://elusiveself.wordpress.com/2016/05/29/false-functional-inference-what-does-it-mean-to-understand-the-brain/
 - https://www.theatlantic.com/science/archive/2016/06/can-neuroscience-understand-donkey-kong-let-alone-a-brain/485177/
-http://psychsciencenotes.blogspot.com/p/the-rough-guide-to-blog.html
+- http://psychsciencenotes.blogspot.com/p/the-rough-guide-to-blog.html
 - https://en.wikipedia.org/wiki/Element_distinctness_problem
 - https://link.springer.com/chapter/10.1007/978-3-642-84379-2_3
 - https://www.scientificamerican.com/article/why-the-human-brain-project-went-wrong-and-how-to-fix-it/
 - https://www.reddit.com/r/movies/comments/2hf2wf/what_is_your_favourite_little_known_cameo/
-http://10.232.207.147:15871/cgi-bin/blockpage.cgi?ws-session=775459006
+- http://10.232.207.147:15871/cgi-bin/blockpage.cgi?ws-session=775459006
 - https://www.humanbrainproject.eu/en/follow-hbp/news/the-scientific-case-for-brain-simulations/
 - https://aeon.co/essays/your-brain-does-not-process-information-and-it-is-not-a-computer
-http://www.teach-nology.com/teachers/methods/info_processing/
+- http://www.teach-nology.com/teachers/methods/info_processing/
 - https://www.quora.com/How-does-the-brain-process-information
 - https://pdfs.semanticscholar.org/3be4/eee7af19ff923ab69bee44deb5cd5d328960.pdf
 - https://stronglifts.com/gain-weight/
