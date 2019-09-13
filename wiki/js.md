@@ -432,5 +432,95 @@ test();
 
 /* ======================================================================== */
 
+## ES5
 
+```
+var Greeter = (function () {
+    function Greeter(message) {
+        this.greeting = message;
+    }
+    Greeter.prototype.greet = function () {
+        return "Hello, " + this.greeting;
+    };
+    return Greeter;
+}());
+var greeter = new Greeter("world");
+console.log(greeter)
+var msg = greeter.greet();
+console.log(msg);
+```
+
+## ES2015
+
+```
+class Greeter {
+    constructor(message) {
+        this.greeting = message;
+    }
+    greet() {
+        console.log("Hello, " + this.greeting);
+    }
+}
+let greeter = new Greeter("world");
+console.log(greeter)
+console.log(Greeter)
+console.log(Greeter.constructor)
+
+(function greet(a, b) { console.log(a + b) })("hello", "world");
+```
+===
+
+## Custom Objects
+- In classic Object Oriented Programming, objects are collections of data and methods that operate on that data. JavaScript is a prototype-based language that contains no class statement, as you'd find in C++ or Java (this is sometimes confusing for programmers accustomed to languages with a class statement). Instead, JavaScript uses functions as classes. Let's consider a person object with first and last name fields. There are two ways in which the name might be displayed: as "first last" or as "last, first". Using the functions and objects that we've discussed previously, we could display the data like this:
+
+```
+function makePerson(first, last) {
+  return {
+    first: first,
+    last: last
+  };
+}
+function personFullName(person) {
+  return person.first + ' ' + person.last;
+}
+function personFullNameReversed(person) {
+  return person.last + ', ' + person.first;
+}
+
+var s = makePerson('Simon', 'Willison');
+personFullName(s); "Simon Willison"
+personFullNameReversed(s); "Willison, Simon"
+```
+
+- This works, but it's pretty ugly. You end up with dozens of functions in your global namespace. What we really need is a way to attach a function to an object. Since functions are objects, this is easy:
+
+```
+function makePerson(first, last) {
+  return {
+    first: first,
+    last: last,
+    fullName: function() {
+      return this.first + ' ' + this.last;
+    },
+    fullNameReversed: function() {
+      return this.last + ', ' + this.first;
+    }
+  };
+}
+
+var s = makePerson('Simon', 'Willison');
+s.fullName(); "Simon Willison"
+s.fullNameReversed(); "Willison, Simon"
+```
+- Note on the this keyword. Used inside a function, this refers to the current object. What that actually means is specified by the way in which you called that function. If you called it using dot notation or bracket notation on an object, that object becomes this. If dot notation wasn't used for the call, this refers to the global object.
+
+- Note that this is a frequent cause of mistakes. For example:
+
+```
+var s = makePerson('Simon', 'Willison');
+var fullName = s.fullName;
+fullName(); undefined undefined
+```
+
+- When we call fullName() alone, without using s.fullName(), this is bound to the global object. Since there are no global variables called first or last we get undefined for each one.
 
