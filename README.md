@@ -176,3 +176,4 @@ Gimi_ashi
 - https://alligator.io/angular/deploying-angular-app-github-pages/
 - https://htmlreference.io/
 - https://cssreference.io/
+- https://blog.prototypr.io/design-systems-rules-versus-norms-3fb62146979b
