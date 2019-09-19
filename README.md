@@ -23,6 +23,7 @@ Gimi_ashi
 - https://www.designyourway.net/blog/web-and-mobile-design/yes-you-can-actually-make-these-text-effects-in-css/
 - http://dolszewski.com/javascript/javascript-runtime-environment/
 - https://2019.jsconf.asia/#program
+- https://hackernoon.com/compilers-and-interpreters-3e354a2e41cf
 
 ## Web Apps Special
 - https://grokonez.com/spring-framework/spring-data/spring-boot-angular-6-example-spring-data-jpa-rest-mysql-crud-example
