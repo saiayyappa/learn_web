@@ -21,7 +21,8 @@ Gimi_ashi
 - https://www.martinfowler.com/articles/injection.html
 - https://wordpress.org/plugins/front-end-only-users/ -- Front End
 - https://www.designyourway.net/blog/web-and-mobile-design/yes-you-can-actually-make-these-text-effects-in-css/
-
+- http://dolszewski.com/javascript/javascript-runtime-environment/
+- https://2019.jsconf.asia/#program
 
 ## Web Apps Special
 - https://grokonez.com/spring-framework/spring-data/spring-boot-angular-6-example-spring-data-jpa-rest-mysql-crud-example
