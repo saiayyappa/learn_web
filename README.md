@@ -21,13 +21,15 @@ Gimi_ashi
 - https://www.martinfowler.com/articles/injection.html
 - https://wordpress.org/plugins/front-end-only-users/ -- Front End
 - https://www.designyourway.net/blog/web-and-mobile-design/yes-you-can-actually-make-these-text-effects-in-css/
+
+## JS related links
 - http://dolszewski.com/javascript/javascript-runtime-environment/
 - https://2019.jsconf.asia/#program
 - https://hackernoon.com/compilers-and-interpreters-3e354a2e41cf
 - https://github.com/sq/JSIL/wiki/Optimizing-dynamic-JavaScript-with-inline-caches
 - https://blog.sessionstack.com/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e
 - https://medium.com/javascript-in-plain-english/javascript-merge-sort-3205891ac060
-
+- https://www.freecodecamp.org/news/javascript-essentials-why-you-should-know-how-the-engine-works-c2cc0d321553/
 ## Web Apps Special
 - https://grokonez.com/spring-framework/spring-data/spring-boot-angular-6-example-spring-data-jpa-rest-mysql-crud-example
 - https://start.spring.io/
