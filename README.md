@@ -30,6 +30,10 @@ Gimi_ashi
 - https://blog.sessionstack.com/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e
 - https://medium.com/javascript-in-plain-english/javascript-merge-sort-3205891ac060
 - https://www.freecodecamp.org/news/javascript-essentials-why-you-should-know-how-the-engine-works-c2cc0d321553/
+
+## CSS Quirks
+- https://blog.prototypr.io/the-programmers-guide-to-the-stylesheet-13f2dce47429
+
 ## Web Apps Special
 - https://grokonez.com/spring-framework/spring-data/spring-boot-angular-6-example-spring-data-jpa-rest-mysql-crud-example
 - https://start.spring.io/
