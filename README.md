@@ -33,6 +33,7 @@ Gimi_ashi
 
 ## CSS Quirks
 - https://blog.prototypr.io/the-programmers-guide-to-the-stylesheet-13f2dce47429
+- https://blog.prototypr.io/building-enticing-animations-like-codesandbox-does-f29782dc301f
 
 ## Web Apps Special
 - https://grokonez.com/spring-framework/spring-data/spring-boot-angular-6-example-spring-data-jpa-rest-mysql-crud-example
