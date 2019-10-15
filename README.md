@@ -177,3 +177,15 @@ Gimi_ashi
 - https://htmlreference.io/
 - https://cssreference.io/
 - https://blog.prototypr.io/design-systems-rules-versus-norms-3fb62146979b
+
+## For Interview
+- http://dolszewski.com/javascript/javascript-runtime-environment/
+- https://howtodoinjava.com/spring-boot2/spring-boot-crud-hibernate/
+- https://developer.mozilla.org/en-US/docs/Web/HTML/Element
+- https://codeburst.io/understanding-memoization-in-3-minutes-2e58daf33a19
+- https://scotch.io/tutorials/understanding-memoization-in-javascript
+- https://scotch.io/tutorials/understanding-memoization-in-javascript#toc-a-functional-approach
+
+## Music
+- https://pages.mtu.edu/~suits/notefreqs.html
+- https://ux1.eiu.edu/~cfadd/3050/Adventures/index.html
